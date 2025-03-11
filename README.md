@@ -10,10 +10,25 @@ By completing this lab, I was able to:
 - Interact with the database through a web application.
 
 ## Key Tasks Completed:
-- Created a security group to allow database access from a web server.
-- Configured a DB subnet group with multiple availability zones.
-- Launched an Amazon RDS MySQL instance with a Multi-AZ setup.
-- Connected a web application to the database and verified data persistence.
+1. Created a security group to allow database access from a web server.
+  
+  ![Security Group](https://github.com/WinnieMadikizella/AWS-Lab-Building-a-DB-Server-and-Connecting-It-to-a-Web-App/blob/main/images/images/DB%20Security%20Group.JPG) 
+
+2. Configured a DB subnet group with multiple availability zones.
+
+  ![Subnet group](https://github.com/WinnieMadikizella/AWS-Lab-Building-a-DB-Server-and-Connecting-It-to-a-Web-App/blob/main/images/images/Subnet%20group.JPG)
+  
+3. Launched an Amazon RDS MySQL instance with a Multi-AZ setup.
+
+   ![Database Creation](https://github.com/WinnieMadikizella/AWS-Lab-Building-a-DB-Server-and-Connecting-It-to-a-Web-App/blob/main/images/images/Database%20Creation.JPG)
+
+   ![RDS Connectivity Details](https://github.com/WinnieMadikizella/AWS-Lab-Building-a-DB-Server-and-Connecting-It-to-a-Web-App/blob/main/images/images/RDS%20Connectivity%20Details.JPG)
+   
+5. Connected a web application to the database and verified data persistence.
+
+   ![Database Connection fields](https://github.com/WinnieMadikizella/AWS-Lab-Building-a-DB-Server-and-Connecting-It-to-a-Web-App/blob/main/images/images/Database%20Connection%20fields.JPG)
+
+   ![Address book running successfully](https://github.com/WinnieMadikizella/AWS-Lab-Building-a-DB-Server-and-Connecting-It-to-a-Web-App/blob/main/images/images/Address%20book%20running%20successfully.JPG) 
 
 ## Conclusion
 This hands-on experience reinforced best practices in cloud database management, security configurations, and scalability in AWS.
