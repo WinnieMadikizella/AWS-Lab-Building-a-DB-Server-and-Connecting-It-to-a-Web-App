@@ -11,6 +11,8 @@ By completing this lab, I was able to:
 
 ## Key Tasks Completed:
 - Created a security group to allow database access from a web server.
+  ![Security Group](images/DB Security Group.JPG)
+  
 - Configured a DB subnet group with multiple availability zones.
 - Launched an Amazon RDS MySQL instance with a Multi-AZ setup.
 - Connected a web application to the database and verified data persistence.
